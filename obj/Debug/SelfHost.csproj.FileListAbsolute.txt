@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\bin\Debug\SelfHost.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\bin\Debug\SelfHost.exe
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\bin\Debug\SelfHost.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\bin\Debug\WCFAssignment-1DOTNET.dll
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\bin\Debug\WCFAssignment-1DOTNET.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\bin\Debug\WCFAssignment-1DOTNET.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\obj\Debug\SelfHost.exe
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\SelfHost\obj\Debug\SelfHost.pdb
