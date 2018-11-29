@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\CalculatorWCFService\bin\Debug\CalculatorWCFService.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\CalculatorWCFService\bin\Debug\CalculatorWCFService.dll
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\CalculatorWCFService\bin\Debug\CalculatorWCFService.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\CalculatorWCFService\obj\Debug\CalculatorWCFService.dll
+c:\users\admin\documents\visual studio 2017\Projects\WCFAssignment-1DOTNET\CalculatorWCFService\obj\Debug\CalculatorWCFService.pdb
